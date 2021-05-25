@@ -9,3 +9,10 @@ How To Setup On Linux
     Migrate Database python manage.py migrate
     Create Super User python manage.py createsuperuser
     Finally Run The Project python manage.py runserver
+    
+    
+    TEAM ID:   BFH/recocFo5Tylp3Il5C/2021
+    TEAM MEMBERS:
+    B Akash
+    Reeja Susan Reji
+    Josna M Alexander
